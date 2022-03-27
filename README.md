@@ -127,6 +127,7 @@ Join the conversation and help the community.
 - [Gitter][gitter]
 - [YouTube][youtube]
 - [StackOverflow][stackoverflow]
+- <a href="https://dev.to/t/angular">Dev</a>
 - Find a Local [Meetup][meetup]
 
 [![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
