@@ -127,6 +127,7 @@ Join the conversation and help the community.
 - [Gitter][gitter]
 - [YouTube][youtube]
 - [StackOverflow][stackoverflow]
+- <!--DEV Community added-->
 - <a href="https://dev.to/t/angular">Dev</a>
 - Find a Local [Meetup][meetup]
 
